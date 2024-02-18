@@ -2,5 +2,5 @@
 
 Commands: 
 
-**!forest**: Shows a QR code with the current room ID
-**!setforest (room ID)**: Sets the current room ID
+>!forest: `Shows a QR code with the current room ID`
+>!setforest (room ID): `Sets the current room ID`
