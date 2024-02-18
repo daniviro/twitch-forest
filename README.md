@@ -1,4 +1,4 @@
-HTML component to add on your overlay so you can show your Forest App room ID.
+# HTML component to add on your overlay so you can show your Forest App room ID.
 
 Commands: 
 
