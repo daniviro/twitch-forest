@@ -1,6 +1,6 @@
-# HTML component to add on your overlay so you can show your Forest App room ID.
-
+# HTML Forest Display
 ![screenshot](https://github.com/daniviro/twitch-forest/blob/main/img/screenshot.png)
+## HTML component to add on your overlay so you can show your Forest App room ID.
 
 ### Commands: 
 
