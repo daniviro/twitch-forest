@@ -8,6 +8,6 @@ Commands:
 - **!setforest (room ID)**: `Sets the current room ID`
 
 Install:
-1. Save the project wherever you like
+1. Save the uncompressed project wherever you like
 2. Put your channel on the `config.js` file
 3. Add `index.html` as a web source on your OBS
