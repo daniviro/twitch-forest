@@ -1,5 +1,6 @@
 # HTML component to add on your overlay so you can show your Forest App room ID.
 ![screenshot](https://github.com/daniviro/twitch-forest/blob/main/img/screenshot.png)
+
 Commands: 
 
 - **!forest**: `Shows a QR code on the overlay with the current room ID`
