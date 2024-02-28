@@ -5,7 +5,7 @@ let config = {
     fontSize: 20,
     borderRadius: 10,
     playSound: false,
-    orientation: "left", // "right" to show the forest code and qr on the right side of the logo
+    orientation: "right", // "right" to show the forest code and qr on the right side of the logo
     showCodeCommand: "!forest",
     setCodeCommand: "!setforest"
 };
