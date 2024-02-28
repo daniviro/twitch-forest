@@ -7,7 +7,7 @@ body{
     height: 100px;
     border-radius: var(--border-radius);
 }
-#main-container #forest-command {
+#main-container #forest-command.left {
     background-color: #73A711;
     height: 3rem;
     padding: 0 1rem;
@@ -15,13 +15,29 @@ body{
     border-top-left-radius: var(--border-radius);
     border-bottom-left-radius: var(--border-radius);
 }
-#main-container #forest-code {
+#main-container #forest-command.right {
     background-color: #73A711;
     height: 3rem;
     padding: 0 1rem;
     color: white;
     border-top-right-radius: var(--border-radius);
     border-bottom-right-radius: var(--border-radius);
+}
+#main-container #forest-code.right {
+    background-color: #73A711;
+    height: 3rem;
+    padding: 0 1rem;
+    color: white;
+    border-top-right-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
+}
+#main-container #forest-code.left {
+    background-color: #73A711;
+    height: 3rem;
+    padding: 0 1rem;
+    color: white;
+    border-top-left-radius: var(--border-radius);
+    border-bottom-left-radius: var(--border-radius);
 }
 #main-container #forest-code #qr-code {
     width: 100%;
