@@ -47,7 +47,7 @@ $(document).ready(() => {
                 }
             }
             let senderId = context['display-name'].toLowerCase();
-            if (senderId === user.channel) {
+            if (context.mod || (context['badges-raw'] != null && context['badges-raw'].startsWith('broadcaster'))) {
                 if (command === setCodeCommand) {
                     console.log([messageSplit, command])
                     let code = messageSplit.slice(1).join(' ');
